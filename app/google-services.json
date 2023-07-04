@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "297589306415",
+    "project_id": "befilerchatdemo-p",
+    "storage_bucket": "befilerchatdemo-p.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297589306415:android:778952353578dbb8da42da",
+        "android_client_info": {
+          "package_name": "com.example.signalrtestandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297589306415-7db85h2hvdqldpfsgbf31uupogmg16pa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrpiXKUia9KZUKl2IYvpPpduvbFfXwbGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297589306415-7db85h2hvdqldpfsgbf31uupogmg16pa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

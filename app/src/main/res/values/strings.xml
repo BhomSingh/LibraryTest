@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">ConnectMate</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fromlabel">From </string>
+    <string name="lbl_no_conversation">NO CONVERSATION</string>
+    <string name="lbl_no_assigned_conversation">NO ASSIGNED CONVERSATION</string>
+
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="no_internet">No Internet Connection</string>
+    <string name="lbl_conversations">Conversations</string>
+    <string name="lbl_jstnow">Just Now</string>
+    <string name="lbl_resolved">Resolved</string>
+    <string name="lbl_all_assign">All Assign</string>
+    <string name="lbl_new">New</string>
+    <string name="lbl_assigned_to_me">Assigned to me</string>
+    <string name="lbl_no_new_conversation">No new conversation</string>
+    <string name="lbl_resolve">Resolve</string>
+    <string name="lbl_reopen">Reopen</string>
+</resources>

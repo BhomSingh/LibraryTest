@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.chat.befiler.activities.SplashActivity"
+
+    >
+
+    <ImageView
+        android:layout_centerInParent="true"
+        android:layout_gravity="center"
+        android:layout_width="200dp"
+        android:layout_height="70dp"
+        android:src="@drawable/logo"
+        android:visibility="gone" />
+    <TextView
+        android:layout_gravity="center"
+        android:id="@+id/textMessage"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="@dimen/_7sdp"
+        android:layout_marginStart="@dimen/_7sdp"
+        android:layout_marginEnd="@dimen/_7sdp"
+        android:layout_marginBottom="@dimen/_7sdp"
+        android:text="CONNECT MATE"
+        android:textColor="@color/black"
+        android:gravity="center"
+        android:maxWidth="@dimen/_250sdp"
+        android:textSize="@dimen/_20ssp" />
+
+</RelativeLayout>

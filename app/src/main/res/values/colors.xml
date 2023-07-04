@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#bb1823</color>
+    <color name="purple_500">#0c83fa</color>
+    <color name="purple_700">#bb1823</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey">#DCDCDC</color>
+    <color name="light_grey">#d1d1d1</color>
+    <color name="fadded_white">#E0E1E4</color>
+    <color name="dull_white">#EEEADE</color>
+    <color name="bg_agent_message">#D9ECFD</color>
+    <color name="bg_conversation_messages">#F8FAFB</color>
+    <color name="system_text_color">#7B95B1</color>
+    <color name="green">#25D366</color>
+    <color name="grey_bg">#a6a6a6</color>
+    <color name="transparent_bg">#272727</color>
+    <color name="transparent">#00FFFFFF</color>
+
+
+
+</resources>
